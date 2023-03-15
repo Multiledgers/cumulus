@@ -125,7 +125,7 @@ Launch a local setup including a Relay Chain and a Parachain.
 
 ```bash
 # Clone
-git clone https://github.com/paritytech/polkadot
+git clone https://github.com/Multiledgers/polkadot.git
 cd polkadot
 
 # Compile Polkadot with the real overseer feature
